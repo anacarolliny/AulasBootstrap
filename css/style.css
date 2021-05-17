@@ -1,0 +1,37 @@
+    .primeira_imagem{
+        color: rgb(14, 13, 13);
+        font-family: fantasy; 
+    max-width:440px;
+    max-height:160px;
+    width: auto;
+    height: auto;
+}
+
+.navbar{
+    
+    color: black;
+    font-family: fantasy; 
+    font-size: 50px;   
+    background: black;
+    
+ 
+}
+
+.quem-somos{
+
+    color: rgb(19, 18, 18);
+    font-family: fantasy; 
+background-color: rgb(245, 29, 29);
+
+}
+
+.margin{
+
+    color: rgb(19, 18, 18);
+    font-family: fantasy; 
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+
+    
